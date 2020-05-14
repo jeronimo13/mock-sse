@@ -1,6 +1,6 @@
 {
-  "name": "mock-sse",
-  "version": "1.0.0",
+  "name": "mock-sse-server",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
   "types": "./types",
